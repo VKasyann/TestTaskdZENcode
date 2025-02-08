@@ -1,4 +1,3 @@
-```sh
 # Cypress Test Environment Setup
 
 ## Prerequisites
